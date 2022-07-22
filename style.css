@@ -1,0 +1,17 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.main-content {
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 5rem;
+}
+
+.main-content p {
+  margin-bottom: 200px;
+}
